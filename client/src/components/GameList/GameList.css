@@ -1,0 +1,15 @@
+.gamelist-main__cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* -webkit-align-items: center; */
+    align-items: center;
+    /* -webkit-justify-content: center; */
+    justify-content: center;
+    padding: 5px 10px;
+}
+
+.gamelist-main__title {
+    text-align: center;
+    margin-top: 13px;
+}
